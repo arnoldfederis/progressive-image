@@ -10,11 +10,9 @@
 ### Install in `npm` or `yarn`
 
 ```
-
 $ npm install progressive-image.js
 
 $ yarn add progressive-image.js
-
 ```
 
 
@@ -23,7 +21,6 @@ $ yarn add progressive-image.js
 * `HTML` markup
 
 ```html
-
 <figure class="graf-figure">
     <div class="aspectRatioPlaceholder">
         <div class="aspectRatioPlaceholder-fill"></div>
@@ -34,32 +31,25 @@ $ yarn add progressive-image.js
         </div>
     </div>
 </figure>
-
 ```
 
 * In `HTML` put this line of code inside your `<head>` tag
 
 ```html
-
 <link rel="stylesheet" href="dist/progressive-image.css">
 <script type="text/javascript" src="dist/index.js"></script>
-
 ```
 
 * In `JavaScript` and `SCSS` using npm or yarn
 
 ```scss
-
 /* SCSS */
-@import '~progressive-image/src/scss/progressive-image'
-
+@import "~progressive-image-lazyload.js/src/scss/progressive-image";
 ```
 
 ```javascript
-
 /* JavaScript */
-import '~progressive-image'
-
+import 'progressive-image-lazyload.js'
 ```
 
 * `data-thumb` this is where you set your small image.
