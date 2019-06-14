@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arnoldfederis/progressive-image.js.git"
+    "url": "git+https://github.com/arnoldfederis/progressive-image-lazyload.js.git"
   },
   "keywords": [
     "progressive image",
@@ -26,9 +26,9 @@
   "author": "Arnolfo L. Federis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arnoldfederis/progressive-image.js/issues"
+    "url": "https://github.com/arnoldfederis/progressive-image-lazyload.js/issues"
   },
-  "homepage": "https://github.com/arnoldfederis/progressive-image.js#readme",
+  "homepage": "https://github.com/arnoldfederis/progressive-image-lazyload.js#readme",
   "dependencies": {},
   "devDependencies": {
     "cross-env": "^5.2.0",
