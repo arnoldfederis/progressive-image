@@ -1,6 +1,6 @@
 {
   "name": "progressive-image-lazyload.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Progressive image with Lazyload",
   "main": "dist/progressive-image-lazyload.js",
   "scripts": {
