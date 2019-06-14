@@ -10,9 +10,9 @@
 ### Install in `npm` or `yarn`
 
 ```
-$ npm install progressive-image.js
+$ npm install progressive-image-lazyload.js
 
-$ yarn add progressive-image.js
+$ yarn add progressive-image-lazyload.js
 ```
 
 
