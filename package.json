@@ -1,8 +1,8 @@
 {
   "name": "progressive-image-lazyload.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Progressive image with Lazyload",
-  "main": "dist/index.js",
+  "main": "dist/progressive-image-lazyload.js",
   "scripts": {
     "dev": "npm run development",
     "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
