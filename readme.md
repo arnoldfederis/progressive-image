@@ -3,7 +3,7 @@
 
 ![Progressive Image JS](https://i.imgur.com/o4aKBEH.png)
 
-[Demo](https://progressive-image.js.arnoldfederis.com)
+[Demo](https://www.progressive-image.js.arnoldfederis.com)
 
 ### Progressive image with Lazyload
 
