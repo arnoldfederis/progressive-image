@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/arnoldfederis/progressive-image-lazyload.js/issues"
   },
-  "homepage": "https://github.com/arnoldfederis/progressive-image-lazyload.js#readme",
+  "homepage": "https://arnoldfederis.github.io/progressive-image-lazyload.js",
   "devDependencies": {
     "cross-env": "^7.0.3",
     "laravel-mix": "^6.0.37",
